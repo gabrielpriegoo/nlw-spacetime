@@ -26,24 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Jwt-decode
 
 
-## 📱 MOBILE
-- React-native 
-- React-native-safe-area-context
-- React-native-screens
-- React-native-svg
-- Typescript
-- Expo
-- Expo-image-picker
-- Expo-auth-session
-- Expo-constants
-- Expo-crypto
-- Expo-font
-- Expo-linking
-- Expo-router
-- Expo-secure-store
-- Expo-status-bar
-- Nativewind
-
 ## ⚙ BACK-END
 - Node 
 - Typescript
